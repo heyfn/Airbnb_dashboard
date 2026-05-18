@@ -90,10 +90,10 @@ Covers review volume trends, reviewer frequency distribution with cumulative %, 
 ## Screenshots
 
 ### Page 1 — Overview
-![Airbnb Dashboard Overview](Screenshot_2026-05-18_215828.png)
+![Airbnb Dashboard Overview](page1-overview.png)
 
 ### Page 2 — Ratings
-![Airbnb Dashboard Ratings](Screenshot_2026-05-18_221353.png)
+![Airbnb Dashboard Ratings](page2-ratings.png)
 
 ### Page 3 — Reviews
-![Airbnb Dashboard Reviews](Screenshot_2026-05-18_221428.png)
+![Airbnb Dashboard Reviews](page3-reviews.png)
