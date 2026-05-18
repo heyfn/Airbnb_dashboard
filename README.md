@@ -23,7 +23,8 @@ The dashboard was built using the following tools and technologies:
 ---
 
 ## Data Source
-
+## Dataset
+[Download the Dataset](https://mavenanalytics.io/data-playground/airbnb-listings-reviews)
 The dashboard is built on two core tables:
 
 **Listings** — Contains property-level details for each Airbnb listing, including:
