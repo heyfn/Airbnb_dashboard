@@ -1,4 +1,4 @@
-# Airbnb Dashboard
+# Global Airbnb Performance Dashboard
 
 A multi-page interactive Power BI report designed to explore Airbnb listing data across cities — covering host behaviour, pricing, room types, guest ratings, and review patterns.
 
